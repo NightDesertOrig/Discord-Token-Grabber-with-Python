@@ -17,3 +17,7 @@ This version of the grabber only supports **Windows**.
  2. Change the 'WEBHOOK_URL' variable value to your Discord webhook URL in [token-grabber.py](token-grabber.py)
  3. *(obfuscate the code or install it as a backdoor in an other script.)*
  4. Send the script to your victim and make them run it.
+
+# Credits
+The author and creator of this program deleted his profile on GitHub, and that's why I uploaded my profile to GitHub.
+WARNING!!! I am not the author, and I am not responsible for the unfair use of the program, I publish it only for my own and your research
